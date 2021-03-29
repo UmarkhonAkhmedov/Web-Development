@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+
+#banner {
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom ;
+    background-size: cover;
+    height: 500px;
+    
+}
+#banner {
+    text-align: center;
+    padding-top: 120px;
+    
+}
+#banner h1 {
+    font-size: 80px;
+}
+#banner p {
+    font-size: 30px;
+    padding: 20px 0;
+    padding-bottom: 40px;
+}
+#banner a {
+    text-decoration: none;
+    border: solid;
+    font-size: 25px;
+    padding: 5px;
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+    color: white;
+}
+#banner a:hover {
+    background-color: rgb(20, 135, 155);
+}
+.clr {
+    clear: both;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+#three {
+    padding: 50px;
+
+}
+.box {
+    float: left;
+    width: 33.3%;
+    text-align: center; 
+}
+.box i {
+    color: #5bc0de;
+    border: solid;
+    padding: 30px;
+    font-size: 45px;
+    border-color: #5bc0de;
+    margin: 40px 0;
+
+}
+.box i:hover {
+    background-color: #5bc0de;
+    color: white;
+}
+.box h1 {
+    font-size: 25px;
+    padding-bottom: 15px;
+    color: #787878;;
+}
+.box p {
+    font-size: 16px;
+    padding-bottom: 20px;
+    color: #787878;
+}
+#urta {
+    background-color: #eee;
+    padding-bottom: 370px;
+    padding-top: 80px;
+}
+.blog {
+    float: left;
+    width: 50%;
+    background-color: #eee;
+    color: #787878;
+}
+#urta div img {
+    height: 300px;
+    width: 100%;
+}
+#urta div h1 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 28px;
+    padding-bottom: 10px;   
+}
+#urta div input, button {
+    font-size: 28px;
+    margin-top: 25px;
+    margin-bottom: 21px;
+    
+}
+#urta div p {
+    padding-left: 15px;
+}
+#urta div button {
+    background-color: #5bc0de;
+    padding: 5px;
+    border: none;
+    color: white;
+    
+}
+#urta div button:hover {
+    background-color: rgb(20, 135, 155);
+}
+#urta div input {
+    margin: 15px;
+    padding: 5px;
+}
+.container1 {
+    width: 60%;
+    margin: auto;
+}
+#links {
+    margin: 150px 0;
+    text-align: center;
+}
+#links p {
+    padding-bottom: 30px;
+    font-family: 'Open Sans', Sans Sarif;
+    color: #787878;
+    font-size: 20px;
+}
+#links h1 {
+    color: #787878;
+    font-size: 35px; 
+}
+#links h3 i {
+    margin-top: 30px;
+    border: solid;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 8px;
+    color: #5bc0de;
+}
+#links h3 i:hover {
+    background-color: #5bc0de;
+    color: white;
+}
+.container2 {
+    width: 50%;
+    margin: auto;
+}
+#bottom {
+    background-color: #eee;
+    padding: 40px 0;
+}
+#bottom ul {
+    
+    text-align: center;
+}
+.container2 ul li {
+    display: inline;
+    padding: 8px;
+    font-size: 16px;
+    color: #5bc0de;
+    border-color: rgb(148, 148, 148);
+
+}
+.b {
+    border-right: solid;
+}
+.container2 ul li a:hover {
+    color: blue;
+}
+#bottom h3 {
+    padding-top: 30px;
+    font-size: 15px;
+    text-align: center;
+    color: #787878;
+}
+.good {
+    border-right: solid;
+    padding: 0 8px;
+    border-color: #787878;
+}
+
+
+
+
+
+

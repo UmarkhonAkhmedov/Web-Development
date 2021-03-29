@@ -1,0 +1,151 @@
+body, h1, h2, h3, ul, p {
+    margin: 0;
+    padding: 0;
+
+}
+#header {
+    background-color: rgb(32, 31, 31);
+    padding: 10px 5px;
+}
+#header h2 {
+    color: rgb(62, 192, 231);
+    font-family: sans-serif;
+    padding: 10px 0px;
+    font-size: 30px;
+    width: 40%;
+    display: inline-block;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.navbar {
+    float: right;
+}
+.navbar li {
+    display: inline;
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    padding: 20px;
+    display: inline-block;
+    padding-top: 18px;
+    font-size: 14px;
+    padding-right: 15px;
+    border-bottom: solid;
+    border-color: rgb(62, 192, 231);
+    
+}
+.navbar li a:hover {
+    color: red;
+    border-bottom: solid;
+}
+#home:hover {
+    color: red;
+    border-bottom: solid;
+}
+#home {
+    color: rgb(62, 192, 231);
+    font-size: 14px;
+    
+}
+#banner {
+    height: 60vh;
+    background-image: url(222.jpg);
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+}
+#banner h1 {
+    font-size: 38px;
+    padding-top: 105px;
+    
+}
+#banner p {
+    padding-top: 20px;
+}
+
+.container3 {
+    width: 40%;
+    margin: auto;
+}
+button {
+    color: white;
+    background-color: black;
+    width: 140px;
+    height: 30px;
+    font-family: sans-serif;
+}
+button:hover {
+    color: red;
+}
+.cont {
+    width: 60%;
+    margin: auto;
+}
+#tagi {
+
+    text-align: center;
+    font-family: sans-serif;
+}
+.serve {
+    padding: 25px;
+}
+.serve h2 {
+    font-size: 35px;
+    padding: 10px 0;
+    color: rgb(62, 192, 231);
+
+}
+.serve p {
+    font-size: 18px;
+    color: black;
+    font-style: bold;
+}
+.box {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 30px 0;
+    
+}
+.box img {
+    width: 120px;
+    height: 120px;
+}
+.box h3 {
+    padding: 15px 0px; 
+}
+.box h3 a {
+    text-decoration: none;
+    color: rgb(62, 192, 231);
+    font-size: 25px;
+    border-bottom: solid
+}
+.box h3 a:hover {
+    color: red;
+    border-bottom: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
